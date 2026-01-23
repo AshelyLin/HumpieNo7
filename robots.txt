@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashleylin.github.io/humpie_no7/sitemap.xml
+Sitemap: https://ashelylin.github.io/al-folio/sitemap.xml
